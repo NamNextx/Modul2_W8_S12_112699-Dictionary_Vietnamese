@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="112699_Application-VietnameseTranslate:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/112699_Application_VietnameseTranslate_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="112699_Application-VietnameseTranslate/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="112699_Application-VietnameseTranslate" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
